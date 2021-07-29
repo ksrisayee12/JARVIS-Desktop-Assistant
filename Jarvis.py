@@ -168,6 +168,10 @@ def run_jarvis():
     elif 'open linkedin' in command:
         talk('opening linkedin')
         webbrowser.open('www.linkedin.com')
+        
+    elif 'open whatsapp' in command:
+        talk('opening whatsapp web')
+        webbrowser.open('https://web.whatsapp.com/')
 
     # About Jarvis And The Creator
     elif 'who is your creator' in command:
