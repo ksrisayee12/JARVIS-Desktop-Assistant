@@ -7,7 +7,7 @@ In this repository **Jarvis** is a low-level **AI** project which makes :
 - Search videos on YouTube.
 - Tell you time.
 - Tell you some 5 line facts from Wikipedia.
-- Opens you some browser, code editor, cmd(command prompt) obs studio. <br>
+- Opens some PC Apps. <br>
 
 Always use the word _**"Jarvis"**_ before you speak to it
 
@@ -45,6 +45,7 @@ To get _**Jarvis**_ in your control use this keywords while asking something to 
 - To **Open Instagram** use the keyword _**open instagram**_.
 - To **Open Facebook** use the keyword _**open facebook**_.
 - To **Open Linkedin** use the keyword _**open linkedin**_.
+- To **Open Whatsapp** use the keyword _**open whatsapp**_.
 
 ## Opening Applications
 
