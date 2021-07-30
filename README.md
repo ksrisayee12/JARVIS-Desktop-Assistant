@@ -68,3 +68,7 @@ To get _**Jarvis**_ in your control use this keywords while asking something to 
 In some computers while installing `pip install PyAudio` some error will occur. In such case use this [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) and select the version of your _**Python and the version bit of windows you have**_. It will install a file automatically copy that file and paste it with the _**Jarvis**_ file. And then copy the name of the file you have downloaded and open your **cmd(command prompt)** or **Power Shell** or in a _**terminal**_ in your IDE and use this `pip install`and paste the name of the file you have copied. And by this method this pyaudio problem solved. <br> <br>
 In some computer it may take some time to respond. So, don't take it as an problem <br>
 Pls. have a correctly working mic or it will throw an error
+
+## EXE File
+
+If you don't want to install python and python packages but want to use _**Jarvis**_ in your computer you can download the [EXE File](https://github.com/ksrisayee12/JARVIS-Desktop-Assistant/raw/master/Jarvis.exe)
