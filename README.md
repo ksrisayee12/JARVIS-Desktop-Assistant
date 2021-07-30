@@ -72,3 +72,6 @@ Pls. have a correctly working mic or it will throw an error
 ## EXE File
 
 If you don't want to install python and python packages but want to use _**Jarvis**_ in your computer you can download the [EXE File](https://github.com/ksrisayee12/JARVIS-Desktop-Assistant/raw/master/Jarvis.exe)
+
+But an problem will arise when opening computer apps because of an application path so you can contact me at the time when you download the EXE File. <br>
+Mail ID: ksrisayee@gmail.com
