@@ -61,7 +61,7 @@ To get _**Jarvis**_ in your control use this keywords while asking something to 
   `open python browser` for opening _**A Browser Created By Me**._ <br>
   ## One Important Thing Before Opening Apps
   Paste your own application path with double backward slash( \\\ ) in starting of every directory. <br>
-  For example: The default path looks like this: "D:\Srisayee K\Coding\EXE Files\Jarvis.exe" <br>
+  For example:If the default path looks like this: "D:\Srisayee K\Coding\EXE Files\Jarvis.exe" <br>
   Then change the path like this: "D:\\\Srisayee K\\\Coding\\\EXE Files\\\Jarvis.exe" <br>
   Or, If you can't understand that following process explained above watch this [video](https://drive.google.com/file/d/1wFB00N8FrITTDrvoGn7UxS1NZQtsMY9s/view?usp=sharing)
 
