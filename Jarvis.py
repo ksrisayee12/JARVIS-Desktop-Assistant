@@ -77,8 +77,8 @@ def run_jarvis():
 
     # Just Fun Commands
     elif 'how are you' in command:
-        print('i am alright how are you my boss')
-        talk('i am alright how are you my boss')
+        print('i am alright how are you sir')
+        talk('i am alright how are you sir')
 
     elif 'i am fine' in command:
         print('ok how can i help you')
@@ -173,18 +173,54 @@ def run_jarvis():
         talk('opening whatsapp web')
         webbrowser.open('https://web.whatsapp.com/')
 
+    elif 'open maps' in command:
+        talk('opening google maps')
+        webbrowser.open('https://www.google.com/maps')
+
+    elif 'open g drive' in command:
+        talk('opening google drive')
+        webbrowser.open('https://drive.google.com/')
+
+    elif 'open g documents' in command:
+        talk('opening google docs')
+        webbrowser.open('https://docs.google.com/')
+
+    elif 'open g meet' in command:
+        talk('opening google meet')
+        webbrowser.open('https://meet.google.com/')
+
+    elif 'open amazon' in command:
+        talk('opening amazon')
+        webbrowser.open('https://www.amazon.com/')
+
+    elif 'open flipkart' in command:
+        talk('opening flipcart')
+        webbrowser.open('https://www.flipkart.com/')
+
+    elif 'open netflix' in command:
+        talk('opening netflix')
+        webbrowser.open('https://www.netflix.com/')
+
+    elif 'open brainly' in command:
+        talk('opening brainly')
+        webbrowser.open('https://brainly.com/')
+
+    elif 'open byjus' in command:
+        talk('opening byjus')
+        webbrowser.open('https://byjus.com/')
+
     # About Jarvis And The Creator
     elif 'who is your creator' in command:
-        talk('I was created by sri saiiii')
+        talk('I was created by sri saayii')
         print('I was created by sri sayee')
 
     elif 'who created you' in command:
-        talk('I was created by sri saiiii')
+        talk('I was created by sri   saayii')
         print('I was created by sri sayee')
 
     elif 'introduce yourself' in command:
-        print('i am jarvis your personal A  I assistant i was created by sri sayee i am a advanced version of A  I alexa created by sri sayee')        
-        talk('i   am   jarvis   your   personal   A   I   assistant   i   was   created   by   sri   saiiii   i   am   a   advanced   version   of   A  I   alexa   created   by   sri   saiiii')        
+        print('i am jarvis your personal A  I assistant i was created by sri sayee i am a advanced version of AI alexa created by sri sayee')        
+        talk('i   am   jarvis   your   personal   A   I   assistant   i   was   created   by   sri   saayii   i   am   a   advanced   version   of   A  I   alexa   created   by   sri   saayii')        
         print('i can open apps open youtube videos tell jokes tell time searches your query on wikipedia and google')
         talk('i   can   open   apps   open   youtube   videos   tell   jokes   tell   time   searches    your    query    on   wikipedia   and   google')
 

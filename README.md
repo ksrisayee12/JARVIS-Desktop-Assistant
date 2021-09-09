@@ -46,6 +46,15 @@ To get _**Jarvis**_ in your control use this keywords while asking something to 
 - To **Open Facebook** use the keyword _**open facebook**_.
 - To **Open Linkedin** use the keyword _**open linkedin**_.
 - To **Open Whatsapp** use the keyword _**open whatsapp**_.
+- To **Open Google Maps** use the keyword _**open maps**_.
+- To **Open Google Drive** use the keyword _**open g drive**_.
+- To **Open Google Docs** use the keyword _**open g documents**_.
+- To **Open Google Meet** use the keyword _**open g meet**_.
+- To **Open Amazon** use the keyword _**open amazon**_.
+- To **Open Flipkart** use the keyword _**open flipkart**_.
+- To **Open Netflix** use the keyword _**open netflix**_.
+- To **Open Brainly** use the keyword _**open brainly**_.
+- To **Open BYJU'S** use the keyword _**open byjus**_.
 
 ## Opening Applications
 
