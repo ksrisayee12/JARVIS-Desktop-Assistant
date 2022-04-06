@@ -7,7 +7,8 @@ In this repository **Jarvis** is a low-level **AI** project which makes :
 - Search videos on YouTube.
 - Tell you time.
 - Tell you some 5 line facts from Wikipedia.
-- Opens some PC Apps. <br>
+- Opens some PC Apps.
+- Opens Websites mentioned below . <br>
 
 Always use the word _**"Jarvis"**_ before you speak to it
 
