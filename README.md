@@ -13,9 +13,9 @@ Always use the word _**"Jarvis"**_ before you speak to it
 
 ## Requirements
 
-To use this _**Jarvis**_ you need to install[ _**EXE FILE**_](https://github.com/ksrisayee12/JARVIS-EXE/archive/refs/heads/main.zip) which I have created for the users. If you want to use the .py file then[ _**DOWNLOAD THIS FILE**_](https://github.com/ksrisayee12/JARVIS-Desktop-Assistant/archive/refs/heads/master.zip) __*AND FOLLOW THE STEPS BELOW*__<br>
+To use this _**Jarvis**_ you need to install[ _**EXE FILE**_](https://github.com/ksrisayee12/JARVIS-EXE/archive/refs/heads/main.zip) which I have created for the users. If you want to use the .py file then[ _**DOWNLOAD THIS FILE**_](https://github.com/ksrisayee12/JARVIS-Desktop-Assistant/archive/refs/heads/master.zip)[ _**AND DOWNLOAD PYTHON FROM THE OFFICIAL PYTHON WEBSITE BY CLICKING HERE**_](https://www.python.org/) __*AND FOLLOW THE STEPS BELOW*__<br>
 
-And the next is to and copy the lines given below and paste it in your **cmd(command prompt)** or **Power Shell** or in a _**terminal**_ in your IDE <br>
+Copy the lines given below and paste it in your **cmd(command prompt)** or **Power Shell** or in a _**terminal**_ in your IDE <br>
 `pip install SpeechRecognition` <br>
 `pip install PyAudio` <br>
 `pip install pyttsx3` <br>
