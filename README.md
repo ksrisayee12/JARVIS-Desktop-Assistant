@@ -13,7 +13,7 @@ Always use the word _**"Jarvis"**_ before you speak to it
 
 ## Requirements
 
-To use this _**Jarvis**_ you need to install[ _**Python**_](https://www.python.org/). If you don't have _**Python**_ in your computer click [_**Here To Download**_](https://www.python.org/downloads/).<br>
+To use this _**Jarvis**_ you need to install[ _**EXE FILE**_](https://github.com/ksrisayee12/JARVIS-EXE/archive/refs/heads/main.zip).<br>
 
 And the next is to and copy the lines given below and paste it in your **cmd(command prompt)** or **Power Shell** or in a _**terminal**_ in your IDE <br>
 `pip install SpeechRecognition` <br>
